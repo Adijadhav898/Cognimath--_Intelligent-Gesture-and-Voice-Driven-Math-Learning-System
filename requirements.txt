@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+opencv-python-headless
+cvzone
+numpy
+pillow
+matplotlib
+pymongo
+dnspython
+reportlab
