@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### 3️⃣ Run the App
 ```bash
-streamlit run white_v2.py
+streamlit run Cognimath.py
 ```
 
 > ⚠️ Make sure your **webcam** and **microphone** permissions are enabled. <br>
