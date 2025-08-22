@@ -244,7 +244,8 @@ PAGES = {
 
 def render_sidebar():
     with st.sidebar:
-        st.image("C:\\Users\\Aditya Jadhav\\Desktop\\F-Project\\airmathlogo.png", width=140)
+        st.image("C:\\Users\\Aditya Jadhav\\Desktop\\datasets\\Cognimath\\Cognimath--_Intelligent-Gesture-and-Voice-Driven-Math-Learning-System\\Cognimathlogo.png", width=140)
+
 
         st.title("AirMath Navigation")
         if st.session_state.logged_in:
