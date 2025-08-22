@@ -30,7 +30,7 @@ This project demonstrates how **computer vision, AI models, and Streamlit** can 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/cognimath.git
+git clone https://github.com/Adijadhav898/Cognimath--_Intelligent-Gesture-and-Voice-Driven-Math-Learning-System.git
 cd cognimath
 ```
 
@@ -45,14 +45,14 @@ streamlit run Cognimath.py
 ```
 
 > ⚠️ Make sure your **webcam** and **microphone** permissions are enabled. <br>
-> ⚠️ Update the file name (`white_v2.py` → change to your actual main script filename if different on your machine).
+> ⚠️ Update the file name (`Cognimath.py` → change to your actual main script filename if different on your machine).
 
 ---
 
 ## 📂 Project Structure
 ```
 Cognimath/
-│── white_v2.py          # Main application script
+│── Cognimath.py          # Main application script
 │── requirements.txt      # Dependencies
 │── logo.png              # Project logo
 │── /data                 # (Optional) For saved notes
